@@ -1,0 +1,6 @@
+{
+  "name": "Senelabo BTP - Laboratoire Géotechnique & Sols",
+  "description": "Refonte officielle du site web de Senelabo BTP (Groupe Géotec) : laboratoire d'essais de sols, chaussées, matériaux de construction et bureau d'études géotechniques au Sénégal et en Afrique de l'Ouest.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
